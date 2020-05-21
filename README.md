@@ -1,6 +1,6 @@
 ## Description
 
-A dynamic and interactive login form built using Svelte. Includes  color-coded password strength meter and email validation, CSS timing for some elegant animations and a JS function that works like an algorithm to determine password strength. 
+A dynamic and interactive login form built using Svelte. Includes  color-coded password strength meter and email validation, CSS timing for some elegant animations and a JS function that works like an algorithm to determine password strength. I find that it works best in Firefox, not sure why.
 
 
 ## Get started
